@@ -21,9 +21,13 @@ Evaluate the results and Improvise-we can evaluate the performance of the model.
 LIBRARIES AND TOOLS
 
 1.Numpy-multidimensional arrays
+
 2.pandas-Data frame 
+
 3.Matplotlib-2d visualization library
+
 4.Scikit Learn-provides the algorithms required
+
 
 Jupyter notebook is used to develop the project
 Source code organized as cells,that saves the output of each cell.Autocomplete is available.
